@@ -1,0 +1,24 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishan-ahamed45/campuseats-task-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kishan-ahamed45/campuseats-task-tracker/issues"
+  },
+  "homepage": "https://github.com/kishan-ahamed45/campuseats-task-tracker#readme",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
